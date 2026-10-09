@@ -1,5 +1,5 @@
 ---
-title: Starlane Documentation
+title: false
 description: Starlane's documentation is a work in progress.
 navigation: false
 ---
